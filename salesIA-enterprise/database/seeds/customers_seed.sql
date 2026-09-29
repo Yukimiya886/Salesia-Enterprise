@@ -1,0 +1,1 @@
+-- Seed scaffold: add customer fixtures after defining the database schema.

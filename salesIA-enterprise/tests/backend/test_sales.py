@@ -1,0 +1,1 @@
+"""Sales test scaffold."""

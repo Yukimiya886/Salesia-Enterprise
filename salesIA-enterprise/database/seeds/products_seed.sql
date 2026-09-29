@@ -1,0 +1,1 @@
+-- Seed scaffold: add product fixtures after defining the database schema.

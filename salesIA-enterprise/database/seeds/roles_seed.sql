@@ -1,0 +1,1 @@
+-- Seed scaffold: add role fixtures after defining the database schema.

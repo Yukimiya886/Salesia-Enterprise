@@ -1,0 +1,2 @@
+class BayesAnalysis:
+    pass

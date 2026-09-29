@@ -1,0 +1,1 @@
+"""Statistical variables scaffold."""

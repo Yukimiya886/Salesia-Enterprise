@@ -1,0 +1,1 @@
+"""Insight service scaffold."""

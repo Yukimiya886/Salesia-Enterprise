@@ -1,0 +1,1 @@
+"""Median calculation scaffold."""

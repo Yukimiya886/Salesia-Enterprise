@@ -1,0 +1,1 @@
+"""Statistics test scaffold."""

@@ -1,0 +1,1 @@
+-- Seed scaffold: add user fixtures after defining the database schema.

@@ -1,0 +1,1 @@
+-- Seed scaffold: add category fixtures after defining the database schema.
